@@ -1,3 +1,7 @@
+# Widlfire Tracker(powered by NASA)
+This project tracks wildfires around the world with the data provided by NASA(ational Aeronautics and Space Administration)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
